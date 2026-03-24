@@ -1,0 +1,25 @@
+/* Css reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.text{
+    width: 50%;
+}
+
+.image{
+    width: 50%;
+    text-align: right;
+}
+
+.image img{
+    max-width: 100%;
+}
